@@ -1,14 +1,14 @@
-# Coursera_Capstone Maryam Esmalifalak
+## Coursera_Capstone Maryam Esmalifalak
 
 Repository for Coursera's IBM Applied Data Science Capstone
 
-Course Contents:
+# Course Contents:
 Week 1 - Introduction to Capstone Project
-Introduction to Capstone Project
-Location Data Providers
-Signing-up for a Watson Studio Account
-Peer-review Assignment: Capstone Project Notebook
-Week 2 - Foursquare API
+- Introduction to Capstone Project
+- Location Data Providers
+- Signing-up for a Watson Studio Account
+- Peer-review Assignment: Capstone Project Notebook
+# Week 2 - Foursquare API
 Introduction to Foursquare
 Getting Foursquare API Credentials
 Using Foursquare API
